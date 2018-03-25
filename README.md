@@ -1,8 +1,8 @@
 # RecruitmentProcess
 
 Przygotowałem 2 testy
-Pierwszy dodaje nowego użytkownika z poziomu już zalogowanego użytkownika
-Drugi sprawdza czy wysyłane jest link ze zmianą hasła
+Pierwszy sprawdza funkcjonalność dodawania nowego użytkownika z poziomu już zalogowanego użytkownika
+Drugi sprawdza czy wysyłany jest link ze zmianą hasła
 
 Testy możemy odpalić na 2 sposoby:
 
