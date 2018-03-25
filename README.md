@@ -9,7 +9,7 @@ Testy możemy odpalić na 2 sposoby:
 Python TestRunner.py
 lub
 
-Python Test_AddNewUser.py
+Python Test_AddNewUser.py <br>
 Python Test_ResetPassword.py
 
 Z obu plików usunąłem hasło do swojego konta.
